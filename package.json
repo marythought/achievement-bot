@@ -1,0 +1,27 @@
+{
+  "name": "achievement_bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that celebrates achievements unlocked",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^1.1.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marythought/achievement-bot.git"
+  },
+  "keywords": [
+    "achievement",
+    "bot"
+  ],
+  "author": "Mary Dickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marythought/achievement-bot/issues"
+  },
+  "homepage": "https://github.com/marythought/achievement-bot"
+}
