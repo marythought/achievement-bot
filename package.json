@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A twitter bot that celebrates achievements unlocked",
   "main": "bot.js",
+  "scripts": {
+    "start" : "node bot.js"
+  },
   "dependencies": {
     "twit": "^1.1.20"
   },
